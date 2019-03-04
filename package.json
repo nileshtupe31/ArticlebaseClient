@@ -5,7 +5,20 @@
   "dependencies": {
     "react": "^16.8.3",
     "react-dom": "^16.8.3",
-    "react-scripts": "2.1.5"
+    "react-scripts": "2.1.5",
+    "react-loadable": "^5.5.0",
+    "react-router-config": "^4.4.0-beta.6",
+    "react-router-dom": "^4.3.1",
+    "reactstrap": "^7.1.0",
+    "bootstrap": "^4.3.1",
+    "@coreui/coreui": "^2.1.7",
+    "@coreui/coreui-plugin-chartjs-custom-tooltips": "^1.2.0",
+    "@coreui/icons": "0.3.0",
+    "@coreui/react": "^2.1.4",
+    "node-sass": "^4.11.0",
+    "flag-icon-css": "^3.2.1",
+    "font-awesome": "^4.7.0",
+    "simple-line-icons": "^2.4.1"
   },
   "scripts": {
     "start": "react-scripts start",
